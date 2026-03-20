@@ -14,7 +14,7 @@
       "localizedDescription": "Moddet pokemon go",
       "iconURL": "https://hansenlikensen-lgtm.github.io/Pogo/apps/minapp-icon.png",
       "tintColor": "#34C759",
-      "versions": [
+      "version": "4.1.8",
         {
           "version": "4.1.8",
           "buildVersion": "1",
