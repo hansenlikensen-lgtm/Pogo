@@ -1,1 +1,29 @@
-
+{
+  "name": "Pogo Source",
+  "identifier": "com.hansenlikensen.pogo",
+  "subtitle": "Custom Apps",
+  "description": "AltStore source for modded apps.",
+  "iconURL": "https://hansenlikensen-lgtm.github.io/Pogo/icon.png",
+  "website": "https://github.com/hansenlikensen-lgtm/Pogo",
+  "apps": [
+    {
+      "name": "PokemonGo+",
+      "bundleIdentifier": "com.hansenlikensen.pokemongo.plus",
+      "developerName": "Andreas",
+      "subtitle": "Modded Version",
+      "localizedDescription": "Moddet Pokemon Go med ekstra funksjoner.",
+      "iconURL": "https://hansenlikensen-lgtm.github.io/Pogo/apps/minapp-icon.png",
+      "tintColor": "#34C759",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-03-20",
+          "downloadURL": "https://github.com/hansenlikensen-lgtm/Pogo/releases/download/v1.0/PokemonGo.ipa",
+          "size": 12345678,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ]
+}
